@@ -1,2 +1,4 @@
-esto es una practica en ssh
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
+esto si es una practica en git
+
+
